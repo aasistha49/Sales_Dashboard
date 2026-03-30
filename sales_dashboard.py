@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
-
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Sales Dashboard",
